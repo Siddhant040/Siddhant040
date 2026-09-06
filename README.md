@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Siddhant Jadaun 👋
 
-<!--
-**Siddhant040/Siddhant040** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer | Full-Stack | GenAI & Backend
 
-Here are some ideas to get you started:
+I build full-stack web applications and AI-powered products, with a focus on backend engineering, scalable APIs, and practical GenAI systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+
+- 🤖 **CareerForge AI** — GenAI-powered interview preparation platform
+- 🏥 **Prescripto+** — Full-stack healthcare appointment management platform
+
+### 🛠️ Tech
+
+JavaScript • TypeScript • React • Node.js • Express • MongoDB • PostgreSQL • GenAI • Docker
+
+### 🔗 Connect
+
+[LinkedIn](https://www.linkedin.com/in/siddhant040) • [GitHub](https://github.com/Siddhant040)
